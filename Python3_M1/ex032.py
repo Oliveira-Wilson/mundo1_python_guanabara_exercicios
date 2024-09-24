@@ -1,4 +1,6 @@
 
+
+
 from datetime import date
 ano = int(input('que ano quero analizar: '))
 if ano == 0:
