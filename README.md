@@ -1,13 +1,21 @@
-# README do Curso: Python 3
+README do Curso: Python 3 – Mundo 2 [40 Horas]
+📚 Descrição do Curso
+O curso "Python 3 – Mundo 2" é um aprofundamento nas estruturas de repetição e comandos condicionais da linguagem Python. Com 40 horas de conteúdo, este módulo é projetado para alunos que já completaram o Primeiro Mundo e desejam expandir suas habilidades em programação.
 
-O curso de Python 3 é composto por 3 mundos, cada um projetado para desenvolver suas habilidades de programação de forma progressiva. Cada mundo contém 40 horas de conteúdo, com exercícios práticos para consolidar seu aprendizado.
+👨‍🏫 Professor
+Gustavo Guanabara
+🎯 Estrutura do Curso
+Introdução ao Mundo 2
 
-Este curso começará com uma introdução à programação com Python, ideal para iniciantes. Você aprenderá os conceitos básicos e as ferramentas necessárias para começar a programar.
+Apresentação do que será abordado no segundo módulo.
+Condições em Python (if..elif)
 
-Em seguida, o curso se aprofundará em estruturas de repetição e comandos condicionais, permitindo que você desenvolva lógica de programação mais complexa.
+Exploração das estruturas condicionais avançadas.
+Repetições em Python (for)
 
-Por fim, você se focará em estruturas de dados, funções e tratamento de erros, explorando como organizar e gerenciar dados de forma eficiente.
+Uso do laço de repetição "for" e suas aplicações.
+Repetições em Python (while)
 
-### Professor: Gustavo Guanabara  
-[Curso em Vídeo](https://www.cursoemvideo.com/)
-
+Uso do laço de repetição "while" e suas aplicações.
+📅 Duração
+40 horas de aprendizado prático e teórico.
