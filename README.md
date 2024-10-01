@@ -3,6 +3,9 @@
 ### 📚 Descrição do Curso
 O curso "Python 3 – Mundo 1" é uma introdução abrangente à programação usando a linguagem Python. Com 40 horas de conteúdo, ele é projetado para iniciantes e oferece uma base sólida nas principais características da linguagem, apresentando os conceitos básicos da programação.
 
+### 👨‍🏫 Professor
+- **Gustavo Guanabara**
+
 ### 🎯 Estrutura do Curso
 
 - **Introdução ao Mundo da Programação**
@@ -27,4 +30,4 @@ O curso "Python 3 – Mundo 1" é uma introdução abrangente à programação u
 ### 📅 Duração
 - 40 horas de aprendizado prático e teórico.
 
----
+--- 
