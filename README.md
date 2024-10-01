@@ -1,4 +1,3 @@
-README do Curso: Python 3 
 README do Curso: Python 3 – Mundo 2 [40 Horas]
 
 📚 Descrição do Curso
